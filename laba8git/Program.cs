@@ -7,6 +7,7 @@ namespace laba8git
         static void Main(string[] args)
         {
             Console.WriteLine("Знакомство с GITHUB");
+            Console.WriteLine("Изменения");
         }
     }
 }
